@@ -1,4 +1,3 @@
-
 ---
 layout: home
 title: Home
@@ -10,17 +9,15 @@ I'm a Computer Science graduate exploring research, machine learning, and artifi
 
 ## Research Interests
 
-I'm currently exploring research topics in computer science and developing my understanding through reading papers and implementing ideas.
+I'm currently learning about:
 
 - Machine Learning
 - Deep Learning
-- Add more interests as you discover them
+- Artificial Intelligence
 
 ## Research Notes
 
-Here, I'll share my understanding of research papers, explain key ideas in my own words, discuss limitations, and document experiments.
-
-My goal is to learn deeply, reproduce research results where possible, and develop my own research questions.
+I'll share my understanding of research papers, explain key ideas in my own words, discuss limitations, and document experiments.
 
 ## Projects
 
@@ -28,4 +25,5 @@ My goal is to learn deeply, reproduce research results where possible, and devel
 
 ## Contact
 
-- [GitHub](https://github.com/sushmitah01)
+- [GitHub Profile](https://github.com/sushmitah01)
+
